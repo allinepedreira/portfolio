@@ -30,6 +30,16 @@
 </p>
 
 #
+* **Odessa: The Game**
+<br>The God of War Ares is dead, and the Olympus decides to set a challenge to the human race. Those who beat the warriors sent by the olympians will be worthy of Ares empty throne. This is how Odessa's story begins, a girl decided to conquer her place among the Gods. <br>
+
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/10d1333b-cda8-4fff-9718-ec575f068362" width="330px" hspace="5px"/>
+  <img src="https://github.com/user-attachments/assets/b1d8b503-f7f8-4888-9f34-7d9a4087a6e1" width="330px" hspace="5px"/>
+  <img src="https://github.com/user-attachments/assets/c21b5a81-814c-4109-ab97-52d8478b09d4" width="330px"/>
+</p>
+
+#
 * **Bebêabá**
 <br>App para ajudar gestantes na organização de exames médicos. <br>
 
@@ -40,13 +50,5 @@
   <img src="https://github.com/user-attachments/assets/c047b149-cd28-4b2f-b93e-ae34bb70d58f" width="165px" hspace="10px"/>
 </p>
 
-#
-
-* **Odessa: The Game**
-<br>The God of War Ares is dead, and the Olympus decides to set a challenge to the human race. Those who beat the warriors sent by the olympians will be worthy of Ares empty throne. This is how Odessa's story begins, a girl decided to conquer her place among the Gods. <br>
-
-<p align="center">
-  <img src="https://github.com/user-attachments/assets/4d66180c-4c6c-4c58-b01a-82d093527340" width="350px"/>
-</p>
 
 
