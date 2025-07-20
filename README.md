@@ -35,7 +35,6 @@
 
 <p align="center">
   <img src="https://github.com/user-attachments/assets/10d1333b-cda8-4fff-9718-ec575f068362" width="330px" hspace="5px"/>
-  <img src="https://github.com/user-attachments/assets/8dc69d48-fe76-46b4-896a-c9b29340f2f0" width="330px" hspace="5px"/>
   <img src="https://github.com/user-attachments/assets/c21b5a81-814c-4109-ab97-52d8478b09d4" width="330px" hspace="5px"/>
 </p>
 
