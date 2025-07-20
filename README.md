@@ -20,7 +20,7 @@
 * **Evil After All**
 <br>A witch is trying to destroy all happy things from a kingdom. Help her destroy it all! Princesses, unicorns and fairies are your enemies. Remember: Ghosts are your friends! Do not hit them otherwise something very bad will happen.
 <br><br>Play with only one tap and no internet connection.
-<br><br>Made with love @ Rio de Janeiro <br>
+<br><br>Made with love @ Rio de Janeiro 
 
 <p align="center">
   <img src="https://github.com/user-attachments/assets/19a064d3-9bc5-4a0f-be8b-2f87700e3c84" width="165px" hspace="10px"/>
@@ -31,16 +31,17 @@
 
 #
 * **Odessa: The Game**
-<br>The God of War Ares is dead, and the Olympus decides to set a challenge to the human race. Those who beat the warriors sent by the olympians will be worthy of Ares empty throne. This is how Odessa's story begins, a girl decided to conquer her place among the Gods. <br>
+<br>The God of War Ares is dead, and the Olympus decides to set a challenge to the human race. Those who beat the warriors sent by the olympians will be worthy of Ares empty throne. This is how Odessa's story begins, a girl decided to conquer her place among the Gods. 
 
 <p align="center">
   <img src="https://github.com/user-attachments/assets/10d1333b-cda8-4fff-9718-ec575f068362" width="330px" hspace="5px"/>
+  <img src="https://github.com/user-attachments/assets/8dc69d48-fe76-46b4-896a-c9b29340f2f0" width="330px" hspace="5px"/>
   <img src="https://github.com/user-attachments/assets/c21b5a81-814c-4109-ab97-52d8478b09d4" width="330px" hspace="5px"/>
 </p>
 
 #
 * **Bebêabá**
-<br>App para ajudar gestantes na organização de exames médicos. <br>
+<br>App para ajudar gestantes na organização de exames médicos. 
 
 <p align="center">
   <img src="https://github.com/user-attachments/assets/41e2b551-105f-4f72-9d3e-bb504dd03d11" width="165px" hspace="10px"/>
