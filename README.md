@@ -1,4 +1,6 @@
-<h1 align="center">Conheça meus projetos 👋</h1>
+<h1 align="center">
+  💻<br>Portfólio | Alline
+</h1>
 
 * **Apadrinhamento: Design**
 <br>Feito de alunos para alunos, o Apadrinhamento é uma plataforma que pretende unir calouros e veteranos engajados na troca de conhecimentos através de um pareamento.
@@ -43,7 +45,8 @@
 * **Odessa: The Game**
 <br>The God of War Ares is dead, and the Olympus decides to set a challenge to the human race. Those who beat the warriors sent by the olympians will be worthy of Ares empty throne. This is how Odessa's story begins, a girl decided to conquer her place among the Gods. <br>
 
-<img width="1137" height="260" alt="Captura de Tela 2025-07-20 às 18 18 29" src="https://github.com/user-attachments/assets/d750b3bf-f9bc-4ed1-ac31-d92f36e2d18b" />
-
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/4d66180c-4c6c-4c58-b01a-82d093527340" width="400px" hspace="10px"/>
+</p>
 
 
