@@ -46,7 +46,7 @@
 <br>The God of War Ares is dead, and the Olympus decides to set a challenge to the human race. Those who beat the warriors sent by the olympians will be worthy of Ares empty throne. This is how Odessa's story begins, a girl decided to conquer her place among the Gods. <br>
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/4d66180c-4c6c-4c58-b01a-82d093527340" width="400px"/>
+  <img src="https://github.com/user-attachments/assets/4d66180c-4c6c-4c58-b01a-82d093527340" width="350px"/>
 </p>
 
 
