@@ -51,7 +51,7 @@
 
 #
 
-### 👋 Foi muito bom te ver por aqui :)
+### 👋 Foi bom te ver por aqui :)
 
 <p align="center">
   <img src="https://github.com/user-attachments/assets/7d4ed629-66dc-4b9e-83f1-a5b009b8ccd2" width="100px" hspace="10px"/>
