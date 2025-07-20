@@ -3,14 +3,13 @@
 </h1>
 
 * **Apadrinhamento: Design**
-<br>Se você é aluno de Design da PUC-Rio, agora conectar-se com pessoas de afinidades em comum está mais fácil do que nunca. Feito de alunos para alunos, o Apadrinhamento é uma plataforma que pretende unir calouros e veteranos engajados na troca de conhecimentos através de um pareamento.
+<br>Feito de alunos para alunos, o Apadrinhamento é uma plataforma que pretende unir calouros e veteranos engajados na troca de conhecimentos através de um pareamento.
 <br><br>O pareamento ocorre em 3 etapas:
 <br>#1 Preencha seus dados
 <br>#2 Escolha seu afilhado/ padrinho
 <br>#3 Descubra
-<br><br>Estamos aguardando vocês :) <br>
 
-<p align="left">
+<p align="center">
   <img src="https://github.com/user-attachments/assets/01a7f8b7-9434-4014-aa08-3743e5be53d0" width="165px" hspace="10px"/>
   <img src="https://github.com/user-attachments/assets/834be4ae-f0bb-45c3-b235-dcaf3f1cf07e" width="165px" hspace="10px"/>
   <img src="https://github.com/user-attachments/assets/e519dbc9-169a-45df-86fa-548bd1386e9a" width="165px" hspace="10px"/>
