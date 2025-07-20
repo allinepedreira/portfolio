@@ -1,6 +1,4 @@
-<h1 align="center">
-  💻<br>Portfólio | Alline
-</h1>
+<h1 align="center">Conheça meus projetos 👋</h1>
 
 * **Apadrinhamento: Design**
 <br>Feito de alunos para alunos, o Apadrinhamento é uma plataforma que pretende unir calouros e veteranos engajados na troca de conhecimentos através de um pareamento.
@@ -22,7 +20,7 @@
 <br><br>Play with only one tap and no internet connection.
 <br><br>Made with love @ Rio de Janeiro <br>
 
-<p align="left">
+<p align="center">
   <img src="https://github.com/user-attachments/assets/19a064d3-9bc5-4a0f-be8b-2f87700e3c84" width="165px" hspace="10px"/>
   <img src="https://github.com/user-attachments/assets/1c3bce18-de0f-412b-8b60-09b6fa6087e5" width="165px" hspace="10px"/>
   <img src="https://github.com/user-attachments/assets/ccee4c42-03e6-4449-90c5-b68be9a319ae" width="165px" hspace="10px"/>
@@ -33,7 +31,7 @@
 * **Bebêabá**
 <br>App para ajudar gestantes na organização de exames médicos. <br>
 
-<p align="left">
+<p align="center">
   <img src="https://github.com/user-attachments/assets/41e2b551-105f-4f72-9d3e-bb504dd03d11" width="165px" hspace="10px"/>
   <img src="https://github.com/user-attachments/assets/e1718784-1f84-4941-a2aa-f3d086efc82b" width="165px" hspace="10px"/>
   <img src="https://github.com/user-attachments/assets/61acd66e-fd10-4397-9237-b2b074c854ee" width="165px" hspace="10px"/>
